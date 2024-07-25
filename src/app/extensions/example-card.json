@@ -1,0 +1,16 @@
+{
+  "type": "crm-card",
+  "data": {
+    "title": "Account Usage",
+    "uid": "plg_account_custom_events",
+    "location": "crm.record.tab",
+    "module": {
+      "file": "Example.jsx"
+    },
+    "objectTypes": [
+      {
+        "name": "p_accounts"
+      }
+    ]
+  }
+}
